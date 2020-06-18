@@ -1,0 +1,2 @@
+run = "(watch -n 60 \"curl https://streaks.hkatz.dev\" & deno run --allow-net=:8080 mod.ts & wait)"
+language = "deno"
